@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ajaykumar1592/ajaykumar1592)
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
